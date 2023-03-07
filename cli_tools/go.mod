@@ -29,9 +29,9 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/vmware/govmomi v0.24.0
 	go.chromium.org/luci v0.0.0-20210204234011-34a994fe5aec // indirect
-	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.1.0
 	google.golang.org/api v0.44.0
 	google.golang.org/protobuf v1.26.0
 )
